@@ -11,7 +11,11 @@
   <h3 align="center">ATM App</h3>
 
   <p align="center">
-   A simple ATM React App
+   A simple ATM React App, with the following improvements:
+  <ul>
+    <li>Input validation for cashbacks</li>
+    <li>Better UX</li>
+  </ul>
   </p>
 </div>
 
